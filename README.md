@@ -1,5 +1,4 @@
 # EE681-Nonlinear-Control
-# TKT4150-Biomechanics
 Course content
 ------------------------------------------------------------------------------------------------------------------------------------------
   This course is intended for graduate students in engineering to present 
