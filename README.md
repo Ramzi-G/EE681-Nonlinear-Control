@@ -29,4 +29,4 @@ Course content
 
 Recommended previous knowledge:
 --
-Prerequisite: EE581 - Linear Systems
+Prerequisite: EE581 - Linear System
